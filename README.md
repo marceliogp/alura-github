@@ -2,6 +2,6 @@
 
 > Status do curso: Estudando
 
-'''
+```
 node app.js
-'''
+```
